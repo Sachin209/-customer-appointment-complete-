@@ -4,7 +4,7 @@ Developed a fully functional web application for an automated service
 center. I had successfully completed my part in developing the entire UI/UX
 and Customer & Appointment Management part. I also implemented all CRUD operations to
 the web application.
-Technologies – Java, M
+
 
    ⚙ Technologies -  Java, MySQL, bootstrap 4
 
